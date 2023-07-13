@@ -1,7 +1,7 @@
 [submodule "themes/simple-cv"]
 	path = themes/simple-cv
 	url = https://github.com/hootan09/simple-cv.git
-[submodule "s-flow.github.io"]
-	path = s-flow.github.io
+[submodule "public"]
+	path = public
 	url = https://github.com/s-flow/s-flow.github.io.git
 	branch = main
